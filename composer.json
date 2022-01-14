@@ -1,5 +1,5 @@
 {
-    "name": "miguel/composer1",
+    "name": "miguelfz/composer1",
     "type": "library",
     "autoload": {
         "psr-4": {
