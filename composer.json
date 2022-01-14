@@ -1,0 +1,16 @@
+{
+    "name": "miguel/composer1",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Miguel\\Composer1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguel",
+            "email": "miguelfzarth@gmail.com"
+        }
+    ],
+    "require": {}
+}
